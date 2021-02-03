@@ -1,2 +1,2 @@
-# JSX_ES6_TemplateLiterals
+# JSX ES6 Template Literals
 Created with CodeSandbox
